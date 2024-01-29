@@ -1,3 +1,9 @@
 Superuser
 name ==> admin
 pass ==> @adm123
+
+user
+name ==> ahmed
+pass ==> @adm123456
+
+
